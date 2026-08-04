@@ -83,32 +83,6 @@ A player evaluation and team-fit tool designed to identify organizational fits b
 - Football Analytics
 - GUI Development
 
----
-
-## Currently Working On
-
-- NHL Analytics Projects
-- Sports Data Engineering Portfolio
-- SQL Interview Problems
-- Machine Learning for Player Evaluation
-- Data Pipeline Projects
-- Expanding my Sports Analytics Portfolio
-
----
-
-## Current Interests
-
-- Football Analytics
-- Basketball Analytics
-- Hockey Analytics
-- Baseball Analytics
-- Sports Data Engineering
-- Predictive Modeling
-- Machine Learning
-- Data Visualization
-
----
-
 ## Let's Connect!
 
 If you're interested in sports analytics, data science, or just enjoy talking sports, I'd love to connect.
