@@ -1,16 +1,120 @@
-## Hi there 👋
+# Ethan Friedman
 
-<!--
-**ethanfr10/ethanfr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Sports Analytics | Business Intelligence
 
-Here are some ideas to get you started:
+Business Operations Analyst at A-Z Industries | PFF Data Collector | UW–Madison Data Science & Information Science '25
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Welcome!
+
+Hi! I'm Ethan.
+
+I've always been fascinated by the way data can explain what happens in sports. Growing up, I was the kid who spent hours looking through statistics, debating player performance, and trying to understand why certain teams consistently found ways to win. That curiosity eventually turned into a career focused on using data to answer difficult questions and build tools that help people make better decisions.
+
+Today I work full time as a Business Operations Analyst, where I develop dashboards, automate reporting, and analyze business performance using SQL, Python, Power BI, and Excel. Outside of work, I spend much of my free time building sports analytics projects focused on football, basketball, hockey, and baseball while continuing to learn new techniques in machine learning, predictive modeling, and data engineering.
+
+My long-term goal is to work in analytics or data engineering for a professional sports organization, helping teams make smarter decisions through data.
+
+This portfolio showcases many of the projects I've built to continue improving my skills and demonstrate how I approach solving real-world problems.
+
+---
+
+## Areas of Experience
+
+- Sports Analytics
+- Data Engineering
+- Machine Learning
+- Predictive Modeling
+- Statistical Analysis
+- Dashboard Development
+- Business Intelligence
+- ETL & Data Pipelines
+- SQL Query Optimization
+- Data Visualization
+- Python Automation
+
+---
+
+## Technical Skills
+
+### Languages
+
+- Python
+- SQL
+- R
+- DAX
+
+### Tools
+
+- Power BI
+- Tableau
+- Excel
+- Git
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Jupyter Notebook
+- VS Code
+
+---
+
+## Featured Projects
+
+### NFL Sack Prediction Model
+Machine learning model predicting the probability that the next NFL passing play results in a sack using historical NFL play-by-play data.
+
+**Skills**
+- Feature Engineering
+- Gradient Boosting
+- Probability Calibration
+- Model Evaluation
+- Python
+
+---
+
+### Roster DNA
+A player evaluation and team-fit tool designed to identify organizational fits based on player traits, scheme, and roster construction.
+
+**Skills**
+- Python
+- Data Cleaning
+- Football Analytics
+- GUI Development
+
+---
+
+## Currently Working On
+
+- NHL Analytics Projects
+- Sports Data Engineering Portfolio
+- SQL Interview Problems
+- Machine Learning for Player Evaluation
+- Data Pipeline Projects
+- Expanding my Sports Analytics Portfolio
+
+---
+
+## Current Interests
+
+- Football Analytics
+- Basketball Analytics
+- Hockey Analytics
+- Baseball Analytics
+- Sports Data Engineering
+- Predictive Modeling
+- Machine Learning
+- Data Visualization
+
+---
+
+## Let's Connect!
+
+If you're interested in sports analytics, data science, or just enjoy talking sports, I'd love to connect.
+
+**LinkedIn:** *www.linkedin.com/in/ethanfriedman10*
+
+**Email:** ethanfr123@gmail.com
+
+Thanks for stopping by!
