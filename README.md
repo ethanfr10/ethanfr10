@@ -16,10 +16,6 @@ Today, I work with data every day, building dashboards, automating reporting, an
 
 My ultimate goal is to work in analytics or data engineering for a professional sports organization and use data to help teams make better decisions.
 
-That's really why I made this page. It's a place for me to share what I'm working on, continue building my skills, and hopefully connect with other people who enjoy digging into sports and data as much as I do.
-
-Thanks for checking it out!
-
 ---
 
 ## Areas of Experience
@@ -46,19 +42,6 @@ Thanks for checking it out!
 - SQL
 - R
 - DAX
-
-### Tools
-
-- Power BI
-- Tableau
-- Excel
-- Git
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Jupyter Notebook
-- VS Code
 
 ---
 
