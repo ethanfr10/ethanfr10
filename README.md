@@ -60,29 +60,6 @@ This portfolio showcases many of the projects I've built to continue improving m
 
 ---
 
-## Featured Projects
-
-### NFL Sack Prediction Model
-Machine learning model predicting the probability that the next NFL passing play results in a sack using historical NFL play-by-play data.
-
-**Skills**
-- Feature Engineering
-- Gradient Boosting
-- Probability Calibration
-- Model Evaluation
-- Python
-
----
-
-### Roster DNA
-A player evaluation and team-fit tool designed to identify organizational fits based on player traits, scheme, and roster construction.
-
-**Skills**
-- Python
-- Data Cleaning
-- Football Analytics
-- GUI Development
-
 ## Let's Connect!
 
 If you're interested in sports analytics, data science, or just enjoy talking sports, I'd love to connect.
