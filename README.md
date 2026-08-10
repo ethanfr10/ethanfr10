@@ -6,17 +6,19 @@ Business Operations Analyst at A-Z Industries | PFF Data Collector | UW–Madiso
 
 ---
 
-# Welcome!
+# Welcome to my GitHub Portfolio!
 
-Hi! I'm Ethan.
+Hi everyone, my name is Ethan Friedman. I graduated from the University of Wisconsin–Madison, where I studied Data Science and Information Science with a minor in Computer Science, and I'm currently working as a Business Operations Analyst.
 
-I've always been fascinated by the way data can explain what happens in sports. Growing up, I was the kid who spent hours looking through statistics, debating player performance, and trying to understand why certain teams consistently found ways to win. That curiosity eventually turned into a career focused on using data to answer difficult questions and build tools that help people make better decisions.
+I've been obsessed with sports for pretty much as long as I can remember. I was always the person looking through stats, comparing players, arguing about teams, and trying to figure out why certain players or teams were better than others. As I got older and started learning more about data science and programming, I realized I could combine the two and actually use data to answer some of the sports questions I'd always been curious about.
 
-Today I work full time as a Business Operations Analyst, where I develop dashboards, automate reporting, and analyze business performance using SQL, Python, Power BI, and Excel. Outside of work, I spend much of my free time building sports analytics projects focused on football, basketball, hockey, and baseball while continuing to learn new techniques in machine learning, predictive modeling, and data engineering.
+Today, I work with data every day, building dashboards, automating reporting, and analyzing business performance using tools like Python, SQL, Power BI, and Excel. Outside of work, a lot of my free time goes toward sports analytics projects. I've worked on projects across football, basketball, hockey, and baseball, and I'm constantly trying to learn something new or find a better way to look at the game.
 
-My long-term goal is to work in analytics or data engineering for a professional sports organization, helping teams make smarter decisions through data.
+My ultimate goal is to work in analytics or data engineering for a professional sports organization and use data to help teams make better decisions.
 
-This portfolio showcases many of the projects I've built to continue improving my skills and demonstrate how I approach solving real-world problems.
+That's really why I made this page. It's a place for me to share what I'm working on, continue building my skills, and hopefully connect with other people who enjoy digging into sports and data as much as I do.
+
+Thanks for checking it out!
 
 ---
 
