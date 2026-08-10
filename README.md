@@ -6,7 +6,7 @@ Business Operations Analyst at A-Z Industries | PFF Data Collector | UW–Madiso
 
 ---
 
-# Welcome to my GitHub Portfolio!
+Welcome to my GitHub Portfolio!
 
 Hi everyone, my name is Ethan Friedman. I graduated from the University of Wisconsin–Madison, where I studied Data Science and Information Science with a minor in Computer Science, and I'm currently working as a Business Operations Analyst.
 
