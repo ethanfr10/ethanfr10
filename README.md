@@ -41,6 +41,8 @@ My ultimate goal is to work in analytics or data engineering for a professional 
 - Python
 - SQL
 - R
+- Java
+- JavaScript
 - DAX
 
 ---
